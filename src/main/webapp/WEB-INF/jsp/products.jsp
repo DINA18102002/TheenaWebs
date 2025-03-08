@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Products - TheenBuild</title>
+    <title>Products - TheenaWebs</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" rel="stylesheet">
@@ -202,7 +202,7 @@
     <!-- Navbar -->
     <nav class="navbar navbar-expand-lg navbar-dark fixed-top animate__animated animate__fadeInDown">
         <div class="container">
-            <a class="navbar-brand" href="/">TheenBuild</a>
+            <a class="navbar-brand" href="/">TheenaWebs</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
                 <span class="navbar-toggler-icon"></span>
             </button>
@@ -425,7 +425,7 @@
         <div class="container">
             <div class="row justify-content-between align-items-start">
                 <div class="col-md-4">
-                    <h5>About TheenBuild</h5>
+                    <h5>About TheenaWebs</h5>
                     <p>We're a passionate team dedicated to delivering cutting-edge web solutions that empower businesses worldwide.</p>
                 </div>
                 <div class="col-md-3">
@@ -452,7 +452,7 @@
                 </div>
             </div>
             <div class="footer-bottom text-center mt-4">
-                <p>© 2025 TheenBuild. All Rights Reserved. | <a href="/privacy-policy">Privacy Policy</a> | <a href="/terms-of-service">Terms of Service</a></p>
+                <p>© 2025 TheenaWebs. All Rights Reserved. | <a href="/privacy-policy">Privacy Policy</a> | <a href="/terms-of-service">Terms of Service</a></p>
             </div>
         </div>
     </footer>

@@ -5,7 +5,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>TheenBuild - Reports</title>
+    <title>TheenaWebs - Reports</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/animate.css@4.1.1/animate.min.css">
@@ -376,7 +376,7 @@
     <!-- Navbar -->
     <nav class="navbar navbar-expand-lg fixed-top animate__animated animate__fadeInDown">
         <div class="container-fluid">
-            <a class="navbar-brand" href="/"><i class="fas fa-building"></i> TheenBuild</a>
+            <a class="navbar-brand" href="/"><i class="fas fa-building"></i> TheenaWebs</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
                 <span class="navbar-toggler-icon"></span>
             </button>
@@ -1112,10 +1112,10 @@
                             <div class="col-md-12">
                                 <label class="form-label">Recipients</label>
                                 <select class="form-select" multiple>
-                                    <option selected>admin@theenbuild.com</option>
-                                    <option>finance@theenbuild.com</option>
-                                    <option>projects@theenbuild.com</option>
-                                    <option>hr@theenbuild.com</option>
+                                    <option selected>admin@theenawebs.com</option>
+                                    <option>finance@theenawebs.com</option>
+                                    <option>projects@theenawebs.com</option>
+                                    <option>hr@theenawebs.com</option>
                                 </select>
                                 <small class="text-muted">Hold Ctrl/Cmd to select multiple recipients</small>
                             </div>
@@ -1150,7 +1150,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6 text-center text-md-start">
-                    © 2025 TheenBuild. All rights reserved.
+                    © 2025 TheenaWebs. All rights reserved.
                 </div>
                 <div class="col-md-6 text-center text-md-end">
                     <a href="#" class="text-decoration-none text-secondary me-3">Privacy Policy</a>

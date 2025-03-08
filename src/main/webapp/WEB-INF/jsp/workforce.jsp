@@ -5,7 +5,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>TheenBuild - Workforce</title>
+    <title>TheenBuild - TheenaWebs</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
@@ -239,7 +239,7 @@
     <!-- Navbar -->
     <nav class="navbar navbar-expand-lg fixed-top animate__animated animate__fadeInDown">
         <div class="container-fluid">
-            <a class="navbar-brand" href="/"><i class="fas fa-building"></i> TheenBuild</a>
+            <a class="navbar-brand" href="/"><i class="fas fa-building"></i> TheenaWebs</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
                 <span class="navbar-toggler-icon"></span>
             </button>
@@ -374,7 +374,7 @@
                                     <td>EMP-001</td>
                                     <td>John Doe</td>
                                     <td>Project Manager</td>
-                                    <td>john.doe@theenbuild.com</td>
+                                    <td>john.doe@theenawebs.com</td>
                                     <td>Construction</td>
                                     <td><span class="badge bg-success">Active</span></td>
                                     <td>
@@ -389,7 +389,7 @@
                                     <td>EMP-002</td>
                                     <td>Jane Smith</td>
                                     <td>Architect</td>
-                                    <td>jane.smith@theenbuild.com</td>
+                                    <td>jane.smith@theenawebs.com</td>
                                     <td>Design</td>
                                     <td><span class="badge bg-success">Active</span></td>
                                     <td>
@@ -404,7 +404,7 @@
                                     <td>EMP-003</td>
                                     <td>Mike Johnson</td>
                                     <td>Site Engineer</td>
-                                    <td>mike.johnson@theenbuild.com</td>
+                                    <td>mike.johnson@theenawebs.com</td>
                                     <td>Construction</td>
                                     <td><span class="badge bg-warning">Pending</span></td>
                                     <td>
@@ -441,7 +441,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6 text-center text-md-start">
-                    © 2025 TheenBuild. All rights reserved.
+                    © 2025 TheenaWebs. All rights reserved.
                 </div>
                 <div class="col-md-6 text-center text-md-end">
                     <a href="#" class="text-decoration-none text-secondary me-3">Privacy Policy</a>

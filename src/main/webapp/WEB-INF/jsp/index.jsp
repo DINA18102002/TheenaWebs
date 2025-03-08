@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Welcome to TheenBuild</title>
+    <title>Welcome to TheenaWebs</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" rel="stylesheet">
@@ -288,7 +288,7 @@
     <!-- Navbar -->
     <nav class="navbar navbar-expand-lg navbar-dark fixed-top animate__animated animate__fadeInDown">
         <div class="container">
-            <a class="navbar-brand" href="/">TheenBuild</a>
+            <a class="navbar-brand" href="/">TheenaWebs</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
                 <span class="navbar-toggler-icon"></span>
             </button>
@@ -316,7 +316,7 @@
     <section class="hero animate__animated animate__fadeInDown">
         <div class="container">
             <h1 class="animate__animated animate__bounceIn">Shape Your Digital Future</h1>
-            <p>At TheenBuild, we craft custom websites that drive success—fast, affordable, and tailored to your vision.</p>
+            <p>At TheenaWebs, we craft custom websites that drive success—fast, affordable, and tailored to your vision.</p>
             <a href="#order" class="btn btn-light animate__animated animate__zoomIn glow-effect">Start Your Journey</a>
         </div>
     </section>
@@ -324,7 +324,7 @@
     <!-- Main Content -->
     <section class="content-section">
         <div class="container">
-            <h2 class="animate__animated animate__fadeInUp">Why Choose TheenBuild?</h2>
+            <h2 class="animate__animated animate__fadeInUp">Why Choose TheenaWebs?</h2>
             <div class="row">
                 <div class="col-md-4 col-sm-6 animate__animated animate__slideInLeft">
                     <div class="feature-card text-center glow-effect">
@@ -435,7 +435,7 @@
                         <li>Select a package above to see details.</li>
                     </ul>
                 </div>
-                <button class="btn btn-primary w-100 mt-3 animate__animated animate__pulse" onclick="showOrderForm()">Proceed to Order</button>
+                <button class="btn btn-primary w-100 mt-3 animate__animated animate__pulse" onclick="showOrderForm()">One Step Away!</button>
             </div>
 
             <!-- Order Form (Hidden Initially) -->
@@ -489,7 +489,7 @@
             <div class="col-md-6 animate__animated animate__slideInLeft">
                 <div class="contact-card glow-effect">
                     <h4>Get in Touch</h4>
-                    <p><i class="fas fa-envelope"></i> Email: <a href="mailto:support@theenbuild.com">support@theenbuild.com</a></p>
+                    <p><i class="fas fa-envelope"></i> Email: <a href="mailto:support@theenbuild.com">support@theenawebs.com</a></p>
                     <p><i class="fas fa-phone"></i> Phone: +1 (800) 123-4567</p>
                     <p><i class="fas fa-map-marker-alt"></i> Address: 123 Innovation Drive, Tech City, USA</p>
                 </div>
@@ -520,7 +520,7 @@
         <div class="container">
             <div class="row justify-content-between align-items-start">
                 <div class="col-md-4">
-                    <h5>About TheenBuild</h5>
+                    <h5>About TheenaWebs</h5>
                     <p>We’re a passionate team dedicated to delivering cutting-edge web solutions that empower businesses worldwide.</p>
                 </div>
                 <div class="col-md-3">
@@ -546,7 +546,7 @@
                 </div>
             </div>
             <div class="footer-bottom text-center mt-4">
-                <p>© 2025 TheenBuild. All Rights Reserved. | <a href="/privacy-policy">Privacy Policy</a> | <a href="/terms-of-service">Terms of Service</a></p>
+                <p>© 2025 TheenaWebs. All Rights Reserved. | <a href="/privacy-policy">Privacy Policy</a> | <a href="/terms-of-service">Terms of Service</a></p>
             </div>
         </div>
     </footer>
